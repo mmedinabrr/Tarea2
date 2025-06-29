@@ -1,3 +1,5 @@
+#include <discordia.h> 
+
 void CountingSort(pix_t *A, int n) {
     long max_id = A[0].id;
     for (int i = 1; i < n; i++)

@@ -1,3 +1,7 @@
+
+
+#include <discordia.h>
+
 void InsertSort(pix_t *A, int n) {
     int i, j;
     pix_t key;
