@@ -10,6 +10,7 @@ typedef struct pixel {
     int red;
     int green;
     int blue;
+    int desencript;
 } pix_t;
 
 // dis_reader.c
